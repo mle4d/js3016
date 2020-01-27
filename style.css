@@ -17,26 +17,26 @@ html {
   align-items: center;
 }
 #a {
-  text-shadow: 10px 10px 0 #ffffff;
-  font-size: 8em;
+  
+  font-size: 9em;
   color: transparent;
-  opacity: .60;
+  opacity: .50;
   position: fixed;
   left: 90%;
   top: -10%;
 }
 #c {
-  text-shadow: 10px 10px 0 #ffffff;
-  font-size: 7em;
+  
+  font-size: 8em;
   color: transparent;
-  opacity: .65;
+  opacity: .60;
   position: fixed;
   top: 0%;
   left: 80%;
 }
 #i {
-  text-shadow: 10px 10px 0 #ffffff;
-  font-size: 6.5em;
+  
+  font-size: 7em;
   color: transparent;
   opacity: .70;
   position: fixed;
@@ -44,19 +44,19 @@ html {
   top: -10%;
 }
 #o {
-  text-shadow: 10px 10px 0 #ffffff;
+  
   font-size: 6em;
   color: transparent;
-  opacity: .75;
+  opacity: .80;
   position: fixed;
   top: 10%;
   left: 60%;
 }
 #u {
-  text-shadow: 2px 2px 0 #ffffff;
+  
   font-size: 5em;
   color: transparent;
-  opacity: .80;
+  opacity: .90;
   position: fixed;
   top: 20%;
   left: 50%;
