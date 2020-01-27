@@ -29,7 +29,7 @@
   // const are = letters.querySelector('#are');
   // const you = letters.querySelector('#you');
   // const question = letters.querySelector('#?');
-  const walk = 100; 
+  const walk = 200; 
 
   function shadow(e) {
     const { offsetWidth: width, offsetHeight: height } = letters;
@@ -47,16 +47,16 @@
       ${yWalk * -1}px ${xWalk}px 0 rgba(0,0,255,0.7)
     `;
     c.style.textShadow = `
-      ${xWalk}px ${yWalk}px 0 rgba(255,0,255,0.7)
+      ${xWalk * -1}px ${yWalk}px 0 rgba(255,0,255,0.7)
     `;
     i.style.textShadow = `
-      ${yWalk * -1}px ${xWalk}px 0 rgba(0,0,255,0.7)
+      ${xWalk}px ${yWalk * -1}px 0 rgba(248, 249, 13)
     `;
     o.style.textShadow = `
-      ${xWalk}px ${yWalk}px 0 rgba(255,0,255,0.7)
+    ${yWalk}px ${xWalk * +1}px 0 rgba(0,255,0)
     `;
     u.style.textShadow = `
-      ${yWalk * -1}px ${xWalk}px 0 rgba(0,0,255,0.7)
+      ${yWalk * +1}px ${xWalk}px 0 rgba(0,0,255,0.7)
     `;
     
 
