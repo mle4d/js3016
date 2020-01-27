@@ -34,3 +34,30 @@ html {
   top: 0%;
   left: 80%;
 }
+#i {
+  text-shadow: 10px 10px 0 #5ef6fb;
+  font-size: 6em;
+  color: transparent;
+  opacity: .40;
+  position: fixed;
+  left: 90%;
+  top: -10%;
+}
+#o {
+  text-shadow: 8px 8px 0 ;
+  font-size: 6em;
+  color: transparent;
+  opacity: .40;
+  position: fixed;
+  top: 0%;
+  left: 80%;
+}
+#u {
+  text-shadow: 8px 8px 0 ;
+  font-size: 6em;
+  color: transparent;
+  opacity: .40;
+  position: fixed;
+  top: 0%;
+  left: 80%;
+}
