@@ -1,13 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Creepster&display=swap');
 html {
-  background-image: url(assets/background.png);
-  position: fixed;
-  bottom: 0%;
-  right: 0%;
+  background: url(assets/background.png);
+  background-color: #99699d;
   background-size: auto;
+  background-repeat: no-repeat;
+  font-family: 'Creepster', cursive;
  }
- 
  body {
    margin: 0;
    overscroll-behavior: none;
  }
+ .hero {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#a {
+  text-shadow: 10px 10px 0 #5ef6fb;
+  font-size: 6em;
+  color: transparent;
+  opacity: .60;
+  position: fixed;
+  left: 50%;
+}
