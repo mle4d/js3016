@@ -17,46 +17,46 @@ html {
   align-items: center;
 }
 #a {
-  text-shadow: 10px 10px 0 #5ef6fb;
+  text-shadow: 10px 10px 0 #ffffff;
   font-size: 8em;
   color: transparent;
-  opacity: .40;
+  opacity: .60;
   position: fixed;
   left: 90%;
   top: -10%;
 }
 #c {
-  text-shadow: 8px 8px 0 ;
+  text-shadow: 10px 10px 0 #ffffff;
   font-size: 7em;
   color: transparent;
-  opacity: .70;
+  opacity: .65;
   position: fixed;
   top: 0%;
   left: 80%;
 }
 #i {
-  text-shadow: 10px 10px 0 #5ef6fb;
+  text-shadow: 10px 10px 0 #ffffff;
   font-size: 6.5em;
   color: transparent;
-  opacity: .80;
+  opacity: .70;
   position: fixed;
   left: 70%;
   top: -10%;
 }
 #o {
-  text-shadow: 8px 8px 0 ;
+  text-shadow: 10px 10px 0 #ffffff;
   font-size: 6em;
   color: transparent;
-  opacity: .80;
+  opacity: .75;
   position: fixed;
   top: 10%;
   left: 60%;
 }
 #u {
-  text-shadow: 8px 8px 0 ;
+  text-shadow: 2px 2px 0 #ffffff;
   font-size: 5em;
   color: transparent;
-  opacity: .90;
+  opacity: .80;
   position: fixed;
   top: 20%;
   left: 50%;
