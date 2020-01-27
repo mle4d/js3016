@@ -10,7 +10,7 @@ html {
    margin: 0;
    overscroll-behavior: none;
  }
- .hero {
+ .letters {
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -23,4 +23,13 @@ html {
   opacity: .60;
   position: fixed;
   left: 50%;
+}
+#c {
+  text-shadow: 10px 10px 0 #5ef6fb;
+  font-size: 6em;
+  color: transparent;
+  opacity: .60;
+  position: fixed;
+  top: 20%;
+  left: 80%;
 }
