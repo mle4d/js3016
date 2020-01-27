@@ -18,7 +18,7 @@ html {
 }
 #a {
   text-shadow: 10px 10px 0 #5ef6fb;
-  font-size: 6em;
+  font-size: 8em;
   color: transparent;
   opacity: .40;
   position: fixed;
@@ -27,37 +27,37 @@ html {
 }
 #c {
   text-shadow: 8px 8px 0 ;
-  font-size: 6em;
+  font-size: 7em;
   color: transparent;
-  opacity: .40;
+  opacity: .70;
   position: fixed;
   top: 0%;
   left: 80%;
 }
 #i {
   text-shadow: 10px 10px 0 #5ef6fb;
-  font-size: 6em;
+  font-size: 6.5em;
   color: transparent;
-  opacity: .40;
+  opacity: .80;
   position: fixed;
-  left: 90%;
+  left: 70%;
   top: -10%;
 }
 #o {
   text-shadow: 8px 8px 0 ;
   font-size: 6em;
   color: transparent;
-  opacity: .40;
+  opacity: .80;
   position: fixed;
-  top: 0%;
-  left: 80%;
+  top: 10%;
+  left: 60%;
 }
 #u {
   text-shadow: 8px 8px 0 ;
-  font-size: 6em;
+  font-size: 5em;
   color: transparent;
-  opacity: .40;
+  opacity: .90;
   position: fixed;
-  top: 0%;
-  left: 80%;
+  top: 20%;
+  left: 50%;
 }
