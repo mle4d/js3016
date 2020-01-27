@@ -1,0 +1,44 @@
+@keyframes move-smoke-back {
+  from {background-position:-290px -290px;}
+  to {background-position:10000px 0;}
+}
+@-webkit-keyframes move-smoke-back {
+  from {background-position:-290px -290px;}
+  to {background-position:10000px 10000px;}
+}
+@-moz-keyframes move-smoke-back {
+  from {background-position:-290px -290px;}
+  to {background-position:10000px 10000px;}
+}
+@-ms-keyframes move-smoke-back {
+  from {background-position: -290px;}
+  to {background-position:10000px 10000px;}
+}
+
+.smoke {
+position:fixed;
+top:0%;
+left:50%;
+right:0%;
+bottom:800%;
+width:100%;
+height:130%;
+display:block;
+overflow: visible;
+}
+.smoke{
+  background: url(assets/smoke2.png) top;
+  background-attachment: fixed;
+  position: fixed;
+  overflow: visible;
+  background-repeat: repeat;
+  background-size:60%;
+  z-index:3;
+  -webkit-filter: drop-shadow( 0 0 20px #5ef6fb);
+  filter: drop-shadow( 0 0 20px #5ef6fb);
+-moz-animation:move-smoke-back 600s linear infinite;
+-ms-animation:move-smoke-back 600s linear infinite;
+-o-animation:move-smoke-back 600s linear infinite;
+-webkit-animation:move-smoke-back 600s linear infinite;
+animation:move-smoke-back 600s linear infinite;
+}
