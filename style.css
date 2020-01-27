@@ -1,0 +1,12 @@
+html {
+ background-image: url(assets/background.png);
+ position: fixed;
+ bottom: 0%;
+ right: 0%;
+ background-size: auto;
+}
+
+body {
+  margin: 0;
+  overscroll-behavior: none;
+}
