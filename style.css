@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Creepster&display=swap');
 html {
- background-image: url(assets/background.png);
- position: fixed;
- bottom: 0%;
- right: 0%;
- background-size: auto;
-}
-
-body {
-  margin: 0;
-  overscroll-behavior: none;
-}
+  background-image: url(assets/background.png);
+  position: fixed;
+  bottom: 0%;
+  right: 0%;
+  background-size: auto;
+ }
+ 
+ body {
+   margin: 0;
+   overscroll-behavior: none;
+ }
