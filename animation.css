@@ -33,6 +33,7 @@ overflow: visible;
   overflow: visible;
   background-repeat: repeat;
   background-size:60%;
+  opacity: .60;
   z-index:3;
   -webkit-filter: drop-shadow( 0 0 20px #5ef6fb);
   filter: drop-shadow( 0 0 20px #5ef6fb);
